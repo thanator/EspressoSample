@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EspressoSample</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="hell_world">HELL WORLD</string>
+    <string name="done">DONE</string>
+</resources>
